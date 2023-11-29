@@ -40,8 +40,4 @@ Feel free to use this code as a starting point for similar projects or contribut
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements, bug fixes, or new features.
 
-License
-This project is licensed under the MIT License.
 
-Contact
-For any questions or inquiries, please contact us at contact@odyssey.com.
